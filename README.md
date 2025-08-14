@@ -63,5 +63,8 @@ Este projeto está sob a licença **MIT** – você pode usar, modificar e distr
 ---
 
 ## 👥 Autor
-- **Seu Nome** – Desenvolvedor do Projeto  
-Contribuições são bem-vindas! Faça um fork, crie um PR e ajude a melhorar.
+- **Ana Claudia** – Orientadora do projeto
+- **Raul Asher Gonçalves e Silva**
+- **Sofia de Sousa Diniz**
+- **Naila Cordeiro de Souza Peixoto**
+- **Ana Stella Farias de Lima**
