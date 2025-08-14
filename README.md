@@ -64,7 +64,7 @@ Este projeto está sob a licença **MIT** – você pode usar, modificar e distr
 
 ## 👥 Autor
 - **Ana Claudia** – Orientadora do projeto
-- **Raul Asher Gonçalves e Silva**
-- **Sofia de Sousa Diniz**
-- **Naila Cordeiro de Souza Peixoto**
-- **Ana Stella Farias de Lima**
+- **Raul Asher Gonçalves e Silva** - Membro da Equipe
+- **Sofia de Sousa Diniz** - Membro da Equipe
+- **Naila Cordeiro de Souza Peixoto** - Membro da Equipe
+- **Ana Stella Farias de Lima** - Membro da Equipe
